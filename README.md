@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Silva</h1>
 <h3 align="center">A developer from Brazil</h3>
+<p> Blog — 11/2022 - 01/2023
+I made a blog using some of my knowledge in the area.
+It contains login and posts page, admin panel, and has been linked to MongoDB Atlas
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
