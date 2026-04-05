@@ -11,16 +11,10 @@
 
 ---
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetheugas&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tetheugas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetheugas&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=tetheugas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 ### 🚀 About Me
 - 🔭 I’m currently working on scalable backend systems and cloud solutions.
