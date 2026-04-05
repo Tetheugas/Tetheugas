@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Silva</h1>
-<h3 align="center">A passionate Software Developer specialized in Backend Engineering and Cloud Architecture</h3>
+<h3 align="center">A passionate Software Developer specialized in Backend Engineering and Architecture</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration" width="300px">
